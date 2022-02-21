@@ -1,0 +1,13 @@
+Line 85: Class DaoVang.ucImage of control ucImage1 was not a loaded control class.
+Line 90: The property name _ExtentX in ucImage1 is invalid.
+Line 91: The property name _ExtentY in ucImage1 is invalid.
+Line 92: The property name bData in ucImage1 is invalid.
+Line 93: The property name Filename in ucImage1 is invalid.
+Line 94: The property name eScale in ucImage1 is invalid.
+Line 95: The property name lContrast in ucImage1 is invalid.
+Line 96: The property name lBrightness in ucImage1 is invalid.
+Line 97: The property name lAlpha in ucImage1 is invalid.
+Line 98: The property name bGrayScale in ucImage1 is invalid.
+Line 99: The property name lAngle in ucImage1 is invalid.
+Line 100: The property name bFlipH in ucImage1 is invalid.
+Line 101: The property name bFlipV in ucImage1 is invalid.

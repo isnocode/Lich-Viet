@@ -1,0 +1,17 @@
+Line 75: Class Proyecto1.ucImage of control picIcono was not a loaded control class.
+Line 8: Property Picture in cmdButton had an invalid file reference.
+Line 11: Property ToolboxBitmap in cmdButton had an invalid file reference.
+Line 22: Property Picture in picClicked had an invalid file reference.
+Line 35: Property Picture in picOver had an invalid file reference.
+Line 80: The property name _ExtentX in picIcono is invalid.
+Line 81: The property name _ExtentY in picIcono is invalid.
+Line 82: The property name bData in picIcono is invalid.
+Line 83: The property name Filename in picIcono is invalid.
+Line 84: The property name eScale in picIcono is invalid.
+Line 85: The property name lContrast in picIcono is invalid.
+Line 86: The property name lBrightness in picIcono is invalid.
+Line 87: The property name lAlpha in picIcono is invalid.
+Line 88: The property name bGrayScale in picIcono is invalid.
+Line 89: The property name lAngle in picIcono is invalid.
+Line 90: The property name bFlipH in picIcono is invalid.
+Line 91: The property name bFlipV in picIcono is invalid.
