@@ -396,25 +396,25 @@ End Function
 
 Public Function DoiThangAL(dThang As Double) As String
     Select Case dThang
-    Case 1: DoiThangAL = "Tha1ng gie6ng"
-    Case 2: DoiThangAL = "Tha1ng hai"
-    Case 3: DoiThangAL = "Tha1ng ba"
-    Case 4: DoiThangAL = "Tha1ng tu7"
-    Case 5: DoiThangAL = "Tha1ng na8m"
-    Case 6: DoiThangAL = "Tha1ng sa1u"
-    Case 7: DoiThangAL = "Tha1ng ba3y"
-    Case 8: DoiThangAL = "Tha1ng ta1m"
-    Case 9: DoiThangAL = "Tha1ng chi1n"
-    Case 10: DoiThangAL = "Tha1ng mu7o72i"
-    Case 11: DoiThangAL = "Tha1ng mu7o72i mo65t"
-    Case 12: DoiThangAL = "Tha1ng cha5p"
+    Case 1: DoiThangAL = "Tha1ng Gie6ng"
+    Case 2: DoiThangAL = "Tha1ng Hai"
+    Case 3: DoiThangAL = "Tha1ng Ba"
+    Case 4: DoiThangAL = "Tha1ng Tu7"
+    Case 5: DoiThangAL = "Tha1ng Na8m"
+    Case 6: DoiThangAL = "Tha1ng Sa1u"
+    Case 7: DoiThangAL = "Tha1ng Ba3y"
+    Case 8: DoiThangAL = "Tha1ng Ta1m"
+    Case 9: DoiThangAL = "Tha1ng Chi1n"
+    Case 10: DoiThangAL = "Tha1ng Mu7o72i"
+    Case 11: DoiThangAL = "Tha1ng Mu7o72i Mo65t"
+    Case 12: DoiThangAL = "Tha1ng Cha5p"
     End Select
 End Function
 Public Function DoiquathangEnglish(ByVal Month As Integer) As String
     Select Case Month
     Case 1: DoiquathangEnglish = "January"
     Case 2: DoiquathangEnglish = "February"
-    Case 3: DoiquathangEnglish = "Match"
+    Case 3: DoiquathangEnglish = "March"
     Case 4: DoiquathangEnglish = "April"
     Case 5: DoiquathangEnglish = "May"
     Case 6: DoiquathangEnglish = "June"
