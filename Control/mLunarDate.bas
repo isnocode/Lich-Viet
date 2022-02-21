@@ -512,10 +512,10 @@ Public Function GetDayName(iDay As String) As String
     Case "Thu71 hai": GetDayName = "Monday"
     Case "Thu71 ba": GetDayName = "Tuesday"
     Case "Thu71 tu7": GetDayName = "Wednesday"
-    Case "Thu71 na8m": GetDayName = "thursday"
-    Case "Thu71 sa1u": GetDayName = "friday"
+    Case "Thu71 na8m": GetDayName = "Thursday"
+    Case "Thu71 sa1u": GetDayName = "Friday"
     Case "Thu71 ba3y": GetDayName = "Saturday"
-    Case "Chu3 nha65t": GetDayName = "sunday"
+    Case "Chu3 nha65t": GetDayName = "Sunday"
     End Select
 End Function
 Public Function GetDaysOfMonth(iMonth As Double, iYear As Double) As Integer
