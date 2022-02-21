@@ -1,0 +1,15 @@
+FrmMain = 50, 55, 705, 508, , 25, 25, 680, 483, C
+mLunarDate = 100, 100, 844, 766, 
+viethoact = 75, 75, 621, 452, 
+Label = 0, 0, 0, 0, C, 156, 100, 535, 528, C
+MoonPhase = 0, 0, 0, 0, C
+ucImage = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ucImageList = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ppgImage = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ppgImageList = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+OptionBox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Button = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+UniTrayIcon = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModNguHanh = 195, 125, 574, 553, 
+ModNgayLe = 156, 100, 535, 528, Z
+FrmLucHoaGiap = 0, 0, 0, 0, C, 0, 0, 0, 0, C
